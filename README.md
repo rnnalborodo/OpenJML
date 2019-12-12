@@ -1,5 +1,4 @@
 # BABEL RaZoR
-======
 
 Java interfaces converter to TLA usinga minimal extension of JML. Based on the amazing project of [OpenJML](https://github.com/OpenJML/OpenJML)
 
